@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 h1 { color: red;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
