@@ -31,6 +31,7 @@ h1 { color: red;
    top: -15px;
    right:0px;
    border: 1px;
+   border-color: black;
    width: 100px;
    height: 20px;
    text-align: center;
